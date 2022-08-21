@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A budget tracker application that has been updated to allow for offline access and functionality so that the user can track withdrawals and deposits with or without a data/internet connection.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,5 +23,8 @@
     "express": "^4.17.1",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
