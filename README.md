@@ -4,12 +4,11 @@
 ## Description
 A budget tracker application that has been updated to allow for offline access and functionality so that the user can track withdrawals and deposits with or without a data/internet connection.
 
-* [Deployed Application](https://budget-tracker-19-app.herokuapp.com/)
-
 ## Table of Contents
 - [User Story](#user-story)
 - [Installation](#installation)
 - [Media](#media)
+- [Link](#link)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
@@ -40,6 +39,10 @@ Please fork this repository over to your local system. Then follow these steps b
 
 *Cache*
 ![](./assets/cache.png)
+
+## Deployed Application
+
+[Heroku Site Link](https://budget-tracker-19-app.herokuapp.com/)
 
 ## License
 This application is licensed under the MIT license. Please click on the link below to learn more.
