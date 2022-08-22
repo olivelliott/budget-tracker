@@ -11,6 +11,7 @@ A budget tracker application that has been updated to allow for offline access a
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
+- [Credits](#credits)
 
 ## User Story
 ```
@@ -24,10 +25,19 @@ Please fork this repository over to your local system. Then follow these steps b
 
 1. Open your command line and ensure that you are in the root of this repository. Then type in the following prompts in this order:
 
--```npm init```
--```npm install```
+- `npm init`
+- `npm install`
 
 ## Media
+
+*Deployed Application*
+![](./assets/deployed-app.png)
+
+*Offline to Online Testing*
+![](./assets/network.png)
+
+*Cache*
+![](./assets/cache.png)
 
 ## License
 This application is licensed under the MIT license. Please click on the link below to learn more.
@@ -43,3 +53,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please direct any questions about this project to olivelliott48@gmail.com. If you would like to see more projects, visit the GitHub link below.
 
 https://www.github.com/olivelliott
+
+## Credits
+
+[Starter Code](https://github.com/coding-boot-camp/symmetrical-bassoon)
